@@ -56,3 +56,23 @@ h1:hover{
     border-style: outset;
 
 }
+
+.material-icons{
+    color: blue;
+    font-size: 20px;
+}
+
+    .nav{
+    list-style-type: none;
+    margin: 3px;
+    padding: 3 px;
+    overflow: hidden;
+    background-color: rgb(237, 111, 199);
+  }
+
+  li {
+    float: left;
+    padding: 14px 16px;
+    color: green;
+  }
+  
