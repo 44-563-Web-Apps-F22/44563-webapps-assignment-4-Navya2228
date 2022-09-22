@@ -1,0 +1,58 @@
+.speech{
+    color:black;
+    font-size:15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.song{
+    color: black;
+    font-size: 15px;
+}
+.direction{
+        color:green;
+        background-color: lightcoral;
+        font-size:20px;
+        font-family: 'Times New Roman', Times, serif;
+}
+.name{
+    color:black;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.direction:hover{color:rosybrown;background-color:goldenrod}
+.ANGELA{
+    color:lightblue;
+    font-size: 15px;
+}
+.SAPHIRE{
+    color:lightgreen;
+    font-size: 15px;
+}
+.ELLE{
+    color:hotpink;
+    font-size: 15px;
+}
+.JANE{
+    color:limegreen;
+    font-size: 15px;
+}
+table, td {  
+    border: 2px solid #333;
+    text-align:center;
+    padding: 15px;
+    margin:20px;
+    color: chocolate;
+    
+  }
+  th{
+    border: 2px solid #555;
+    text-align:center;
+    color:rgb(64, 4, 51)
+  }
+  tr:nth-child(even) {
+    background-color: lightsalmon;
+  }
+h1:hover{
+    text-shadow: 1px 1px 3px rgb(94, 226, 87);
+    border-style: outset;
+
+}
