@@ -76,3 +76,7 @@ h1:hover{
     color: green;
   }
   
+  h6:hover{
+    text-shadow: 1px 1px 3px rgb(94, 226, 87);
+    border-style: outset;
+  }
